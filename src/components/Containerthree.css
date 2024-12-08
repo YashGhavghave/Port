@@ -1,0 +1,14 @@
+#three{
+    animation: ani linear;
+    animation-timeline: view(700px 0px );
+}
+@keyframes ani{
+    from{
+        scale: .7   1;
+        opacity:0;
+    }
+    to{
+        scale:1;
+        opacity:1;
+    }
+}

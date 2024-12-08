@@ -1,0 +1,13 @@
+#image{
+    animation: glimps  linear;
+    animation-timeline: view();
+    animation-range: exit -200px;
+}
+@keyframes glimps{
+    to{opacity: 0;}
+}
+
+@keyframes opp{
+    25%{opacity:1;}
+    85%, 100%{opacity: 0; scale: 3;}
+}
