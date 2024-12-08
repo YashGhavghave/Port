@@ -43,7 +43,7 @@ const TypingEffect = () => {
   className="items-center text-white absolute top-[25vh] left-[50%]
              flex 
              max-lg:top-[55%] 
-             max-md:left-[10vw] max-lg:left-[28vw]
+             max-md:left-[9vw] max-lg:left-[28vw]
              lg:left-auto lg:right-[4vw] lg:translate-x-0 lg:top-[29vh]
              xl:left-[70%] xl:transform xl:-translate-x-1/2">
       <div className="text-center max-2xl:text-2xl text-4xl font-mono overflow-hidden relative">
