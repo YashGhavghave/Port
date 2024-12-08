@@ -7,10 +7,6 @@ app.use(cors())
 
 app.use('/Public',express.static('Public'))
 
-app.get('/',(req, res)=>{
-    res.send('Hello')
-})
-
 app.listen(port,()=>{
     console.log(`File is served in the ${port}`)
 })
