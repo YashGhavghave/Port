@@ -58,6 +58,7 @@ const TypingEffect = () => {
           <a href='https://www.linkedin.com/in/yash-ghavghave-3b0782262/?originalSubdomain=in' target='_blank' className='text-blue-500'> <br/><br/>Linked_in</a>
           <a href='https://github.com/YashGhavghave' target='_blank' className='text-white'> <br/><br/>GitHub</a>
           <a href='https://www.reddit.com/user/Nearby_Professor_251/' target='_blank' className='text-red-500'> <br/><br/>Reddit</a>
+          <a href='https://www.cloudskillsboost.google/public_profiles/7332cd94-bc1e-4027-a515-bf5a26bd3fd1' target='_blank' className='text-yellow-500'> <br/><br/>Google Cloud</a>
           {/* <a href='https://www.linkedin.com/in/yash-ghavghave-3b0782262/?originalSubdomain=in' target='_blank' className='text-blue-500'> <br/><br/>Linked_in</a> */}
         </h2>
         {/* <span className="absolute right-0 top-0 border-r-4 border-Transparent animate-blink"></span> */}
