@@ -11,7 +11,7 @@ function Containerthree() {
             <br/>
             <h2 className='bg-transparent font-mono relative left-[10vw]'>• Medicinal Description System Using Gemini(1.5 Flash)</h2>
             <br/>
-            <h2 className='bg-transparent font-mono relative left-[10vw]'>• Resume Analysis System</h2>
+            {/* <h2 className='bg-transparent font-mono relative left-[10vw]'>• Resume Analysis System</h2> */}
             <br/>
           
           </div>
