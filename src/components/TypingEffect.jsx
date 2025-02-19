@@ -4,7 +4,7 @@ import './TypingEffect.css';
 const TypingEffect = () => {
   const lines = [
     "Hi There...!",
-    "I'm Yash Ghavghave...",
+    "I'm Your Friend...",
     "Welcome to my portfolio! "
   ];
 
